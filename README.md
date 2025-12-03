@@ -163,7 +163,7 @@ python get_vendor_summary.py
 
 Open .ipynb files in Jupyter Notebook or VS Code.
 
-8. Insights for Business Decision Making
+ Insights for Business Decision Making
 
 High-performing vendors can improve profitability through cost optimization and selective pricing.
 
